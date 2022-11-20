@@ -31,7 +31,7 @@ _data source: [udemy](https://www.udemy.com)_
 After collecting data using API, collected data is pre-processed and seperate .scv file is created. Then using pre-processed data model is bult on the top of recommendation engine theory.
 
 ### Model integration:
-Once model start giving appropriate results, web application is developed using Flask, CSS, HTML & javascript. 
+Once model start giving appropriate results, web application is developed using Flask, CSS, HTML, Bootstrap & javascript. 
 
 
 ## Screen Shots
